@@ -1,1 +1,1 @@
-# internetBank 
+# internetBank [![Build status](https://ci.appveyor.com/api/projects/status/3ckaiuy2apbw67b7/branch/main?svg=true)](https://ci.appveyor.com/project/elenabulavina90/internebank/branch/main)
